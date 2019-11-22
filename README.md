@@ -1,4 +1,3 @@
 # brickbrker.github.io
-the great outdoors
 
-a purely aesthetic endeavor
+a purely aesthetic endeavor made to relearn some code
